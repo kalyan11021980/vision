@@ -1,0 +1,6 @@
+node_modules
+.env
+screenshot.png
+steps.json
+.venv
+.DS_STore
